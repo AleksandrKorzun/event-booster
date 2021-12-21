@@ -1,1 +1,1 @@
-# event-booster
+# Event-booster
